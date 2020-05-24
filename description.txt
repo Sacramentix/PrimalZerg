@@ -4,11 +4,12 @@ Primal zerg is a mod to increase the spawn rate and spawn cap to crazy amount
 
 Current Version :
 
-- Swarm creep concoction : Increase the spawn rate and the spawn cap by a lot ( by default it's 450, the value of the old zerg potion + chaos candle of calamity mod)
+- Swarm creep concoction : Increase the spawn rate and the spawn cap by a lot ( by default it's 150, the value of the old zerg potion + chaos candle of calamity mod)
 
 - You can craft the swarm creep concoction with a bottledWater, 6 gel, 6 souls of night and 6 ichor or cursed flame.
 
 - You can modify the spawn rate and spawn cap boost of the concoction with this command : /PrimalZergCreepSpawnRate spawnRate , /PrimalZergCreepSpawnCap spawnCap 
+
 - And their shorcut : /PZCSpawnRate spawnRate , /PZCSpawnCap spawnCap
 
 Futur update : 

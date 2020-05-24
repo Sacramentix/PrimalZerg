@@ -23,8 +23,8 @@ namespace PrimalZerg
 
         public override void ResetEffects() {
             zergMucus = false;
-            zergMucusSpawnRate = 30;
-            zergMucusMaxSpawns = 60;
+            zergMucusSpawnRate = 150;
+            zergMucusMaxSpawns = 150;
         }
     }
 }
