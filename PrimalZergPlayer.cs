@@ -18,13 +18,12 @@ namespace PrimalZerg
 	public class PrimalZergPlayer : ModPlayer
 	{
         public bool zergMucus;
-        public float zergMucusSpawnRate;
-        public float zergMucusMaxSpawns;
+        public double zergMucusSpawnRate = 150.0;
+        public double zergMucusMaxSpawns = 150.0;
 
         public override void ResetEffects() {
             zergMucus = false;
-            zergMucusSpawnRate = 150;
-            zergMucusMaxSpawns = 150;
         }
+
     }
 }
