@@ -12,6 +12,10 @@ Current Version :
 
 - And their shorcut : /PZCSpawnRate spawnRate , /PZCSpawnCap spawnCap
 
+Community :
+
+- Join the community on discord : https://discord.gg/McjEeBN
+
 Futur update : 
 
 - A zerg invasion where you can choose the spawn rate and cap. Complete the invasion without dying to increase the concoction effect maximum value.

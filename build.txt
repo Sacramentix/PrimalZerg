@@ -1,6 +1,7 @@
 displayName = Primal Zerg
 author = Sacramentix
-version = 1.0.0.0
+version = 1.0.0.1
+homepage = https://tmodloader.net/
 hideCode = false
 hideResources = false
 includeSource = true
