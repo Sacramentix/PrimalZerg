@@ -2,10 +2,11 @@
 
 Primal Zerg is terraria mod about zerg made with TmodLoader.
 
+## The project is currently in standby until the release of TmodLoader for 1.4
+
 ## Setup
 
 if you want to contribute follow the TmodLoader guide: https://github.com/tModLoader/tModLoader/wiki/tModLoader-guide-for-developers
-
 
 ## Discord
 
